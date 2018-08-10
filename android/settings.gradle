@@ -1,0 +1,3 @@
+rootProject.name = 'ModalProblemRepro'
+
+include ':app'
